@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# build a single File TW in share/output/index.html
+
+tiddlywiki weblog --build index
+mv weblog/output/index.html ..
+

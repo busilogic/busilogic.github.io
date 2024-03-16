@@ -1,0 +1,15 @@
+created: 20240316070559743
+modified: 20240316070814083
+tags: 
+title: How to tiddle
+type: text/vnd.tiddlywiki
+
+My notes on tiddly wiki.
+
+''Basic Premise''
+* You have a series of notes or cards. All information can fit into a card.
+* The cards are non-linear. It's lists, to do stuff, reference. 
+
+How Tiddly Wiki works
+It's a single index.html file with javascript.
+You add/remove notes. 
